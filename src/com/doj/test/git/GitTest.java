@@ -12,5 +12,9 @@ public class GitTest {
 	public void remove() {
 		
 	}
+	
+	public void getName() {
+		
+	}
 
 }
