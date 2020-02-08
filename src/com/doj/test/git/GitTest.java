@@ -16,5 +16,13 @@ public class GitTest {
 	public void getName() {
 		
 	}
+	
+	public void getId() {
+		
+	}
+	
+	public void getUrl() {
+		
+	}
 
 }
