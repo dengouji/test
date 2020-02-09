@@ -10,14 +10,17 @@ public class GitTest {
 	}
 	
 	public void remove() {
+		System.out.println();
 		
 	}
 	
 	public void getName() {
+		System.out.println("getName");
 		
 	}
 	
 	public void getId() {
+		System.out.println("getId");
 		
 	}
 	
